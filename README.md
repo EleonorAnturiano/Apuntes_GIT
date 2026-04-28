@@ -31,7 +31,7 @@ README.md: describe el proyecto
 .gitignore: indica archivos que Git debe ignorar
 LICENSE: define permisos de uso
 
-CLASE 2
+## CLASE 2
 
 Estados de Git
 Git maneja tres estados principales:
@@ -84,7 +84,7 @@ refactor: mejora de código
 test: pruebas
 build / ci / perf: técnicos
 
-CLASE 3
+## CLASE 3
 
 ¿Qué es GitHub?
 GitHub es una plataforma en la nube basada en Git que permite almacenar repositorios, colaborar, compartir código y gestionar proyectos.
@@ -151,7 +151,7 @@ git push origin main
 Bajar:
 git pull origin main
 
-CLASE 4
+## CLASE 4
 
 git remote
 Permite gestionar repositorios remotos (GitHub). Indica a Git dónde enviar y obtener cambios.
