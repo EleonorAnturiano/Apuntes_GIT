@@ -1,6 +1,6 @@
 # Apuntes_GIT
 
-CLASE 1
+## CLASE 1
 
 ¿Qué es Git?
 Git es un sistema de control de versiones distribuido que permite registrar cambios en un proyecto, trabajar en equipo y recuperar versiones anteriores.
